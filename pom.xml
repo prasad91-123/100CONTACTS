@@ -26,12 +26,12 @@
 				<extensions>true</extensions>
 				<configuration>
 <cloudHubDeployment>
-				<username>varaprasad</username>
+				<username>Tata1</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>100contacts</applicationName>
-				<password>Pr@sad.91</password>
+				<password>Tata1234</password>
 				<muleVersion>4.2.1</muleVersion>>
 				</cloudHubDeployment>
 				</configuration>
